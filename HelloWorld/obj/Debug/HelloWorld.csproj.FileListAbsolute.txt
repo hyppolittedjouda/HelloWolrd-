@@ -1,0 +1,7 @@
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\hyppo\OneDrive\Desktop\C_SHARP_PROJECT_DIRECTORY\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
